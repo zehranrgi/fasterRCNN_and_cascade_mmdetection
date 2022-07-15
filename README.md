@@ -20,4 +20,4 @@ Faster_RCNN Results:
 
 
 You should know what is VOC format, COCO format. 
-Pascal VOC is a common XML annotation format; COCO is a common JSON format. There are some techniques to convert XML to JSON. 
+Pascal VOC is a common XML annotation format; COCO is a common JSON format. There are several techniques to convert XML to JSON. 
