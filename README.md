@@ -3,7 +3,7 @@
 mmdetection: 
 " MMDetection is an open source object detection toolbox based on PyTorch. It offers different architectures in the model zoo. 
 
-You can from this link: https://github.com/open-mmlab/mmdetection#overview-of-benchmark-and-model-zoo " 
+You can look for details in this link: https://github.com/open-mmlab/mmdetection#overview-of-benchmark-and-model-zoo " 
 
 I took the BCCD dataset from roboflow. 
 
