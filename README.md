@@ -2,9 +2,11 @@
 
 mmdetection: 
 " MMDetection is an open source object detection toolbox based on PyTorch. It offers different architectures in the model zoo. 
+
 You can from this link: https://github.com/open-mmlab/mmdetection#overview-of-benchmark-and-model-zoo " 
 
 I took the BCCD dataset from roboflow. 
+
 BCCD: -Blood Cell Count and Detection- 
 
 Cascade Results:
@@ -20,4 +22,7 @@ Faster_RCNN Results:
 
 
 You should know what is VOC format, COCO format. 
-Pascal VOC is a common XML annotation format; COCO is a common JSON format. There are several techniques to convert XML to JSON. 
+
+Pascal VOC is a common XML annotation format; COCO is a common JSON format. 
+
+There are several techniques to convert XML to JSON. 
